@@ -14,7 +14,7 @@ Ao concluir essa jornada, você estará devidamente capacitado(a) não apenas pa
 ## **Atividades:**
 
   
-  Desafio de Código: Coloque em prática todo o conhecimento adquirido nas aulas e teste o seu conhecimento na resolução de um desafio.
-  
-  Desafio de Projeto: Construa o seu portfólio construindo projetos práticos com o conhecimento adquirido ao longo das aulas.
+  Desafio de Projeto: Crie um Phishing para captura de senhas de login de acesso ao Facebook.
 
+
+## **Resolução:**
